@@ -127,12 +127,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Reformation.',
+              texto: '<em>Reformation</em>.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Hemper.',
+              texto: '<em>Hemper</em>.',
               esCorrecta: true,
             },
             {

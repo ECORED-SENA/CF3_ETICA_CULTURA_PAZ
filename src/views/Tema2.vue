@@ -7,7 +7,7 @@
         span 2
       h1 <em>Triple Bottom Line</em>
     
-    p.mb-5 El concepto de Triple Bottom Line fue establecido por <strong>John Elkington en 1994</strong> y representa una evolución del enfoque tradicional de resultados empresariales (<em>Bottom Line</em>), que se centraba únicamente en el aspecto económico. El <em>Triple Bottom Line</em> propone una <strong>evaluación integral del impacto de una empresa</strong> considerando tres dimensiones interdependientes:
+    p.mb-5 El concepto de <em>Triple Bottom Line</em> fue establecido por <strong>John Elkington en 1994</strong> y representa una evolución del enfoque tradicional de resultados empresariales (<em>Bottom Line</em>), que se centraba únicamente en el aspecto económico. El <em>Triple Bottom Line</em> propone una <strong>evaluación integral del impacto de una empresa</strong> considerando tres dimensiones interdependientes:
 
     .row.align-items-center.mb-5
       .col-xl-auto(data-aos="fade-right")

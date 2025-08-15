@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Entendiendo mi Mundo',
+    Name: 'Entendiendo mi mundo',
     Description:
-      'El desarrollo sostenible busca satisfacer las necesidades presentes sin comprometer las futuras. La Agenda 2030 establece 17 Objetivos de Desarrollo Sostenible, impulsando acciones éticas en empresas mediante valores, productos responsables y estrategias sostenibles. El enfoque Triple Bottom Line integra impacto social, económico y ambiental. Varias marcas adoptan este modelo, priorizando responsabilidad, equidad y conciencia ambiental.',
+      'El desarrollo sostenible busca satisfacer las necesidades presentes sin comprometer las futuras. La agenda 2030 establece 17 objetivos de desarrollo sostenible, impulsando acciones éticas en empresas mediante valores, productos responsables y estrategias sostenibles. El enfoque <em>Triple Bottom Line</em> integra impacto social, económico y ambiental. Varias marcas adoptan este modelo, priorizando responsabilidad, equidad y conciencia ambiental.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -180,7 +180,7 @@ export default {
         'propósito profundo y significativo de una organización, alineado con los ODS y que responde a la pregunta sobre su razón de ser.',
     },
     {
-      termino: 'Objetivos de Desarrollo Sostenible (ODS):',
+      termino: 'Objetivos de Desarrollo Sostenible (ODS)',
       significado:
         'conjunto de metas adoptadas por los Estados Miembros de la ONU en 2015 para erradicar la pobreza, proteger el planeta y garantizar paz y prosperidad para todos al año 2030.',
     },

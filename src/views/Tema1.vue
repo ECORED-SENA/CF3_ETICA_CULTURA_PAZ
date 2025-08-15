@@ -5,11 +5,11 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Objetivos de Desarrollo Sostenible
+      h1 Objetivos de desarrollo sostenible
     
     .row.align-items-center.mb-5.m-0.style___box_1(data-aos="zoom-in")
       .col-xl
-        p.mb-4 En abril de 1987, la Comisión de Desarrollo y Medio Ambiente de las Naciones Unidas publicó el informe <strong>“Nuestro futuro común”</strong> (Our Common Future), también conocido como el <strong>Informe Brundtland</strong> (Brundtland, G.H., 1987). En este documento se introdujo el concepto de <strong>desarrollo sostenible</strong>, definido como:
+        p.mb-4 En abril de 1987, la Comisión de Desarrollo y Medio Ambiente de las Naciones Unidas publicó el informe <strong>“nuestro futuro común”</strong> (<em>Our Common Future</em>), también conocido como el <strong>Informe <em>Brundtland</em></strong> (<em>Brundtland</em>, G.H., 1987). En este documento se introdujo el concepto de <strong>desarrollo sostenible</strong>, definido como:
         .row.justify-content-center
           .col-xl-10
             .bloque-texto-b.color-primario.mb-5(data-aos="fade-right")
@@ -23,7 +23,7 @@
     
     p.mb-4 Este concepto implica equilibrar tres elementos fundamentales: crecimiento económico, inclusión social y protección del medio ambiente, los cuales están interrelacionados y son esenciales para el bienestar de las sociedades.
 
-    p.mb-5 En respuesta a este desafío, en septiembre de 2015 más de 150 países participaron en la Cumbre del Desarrollo Sostenible en Nueva York (EE. UU.), donde se aprobó la Agenda 2030, que contiene los Objetivos de Desarrollo Sostenible (ODS). Estos objetivos, también conocidos como Objetivos Mundiales, constituyen un llamado universal para:
+    p.mb-5 En respuesta a este desafío, en septiembre de 2015 más de 150 países participaron en la Cumbre del Desarrollo Sostenible en Nueva York (EE. UU.), donde se aprobó la agenda 2030, que contiene los Objetivos de Desarrollo Sostenible (ODS). Estos objetivos, también conocidos como Objetivos Mundiales, constituyen un llamado universal para:
 
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-7.col-md-9.mb-xl-0.mb-4
@@ -55,9 +55,9 @@
     <!-- BLOQUE 1 -->
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1 Los 17 Objetivos de Desarrollo Sostenible
+      h2 1.1 Los 17 objetivos de desarrollo sostenible
     
-    p.mb-5 A continuación, se presenta un video que expone los 17 Objetivos de Desarrollo Sostenible, destacando el propósito principal de cada uno de ellos para facilitar su comprensión y análisis.
+    p.mb-5 A continuación, se presenta un video que expone los 17 objetivos de desarrollo sostenible, destacando el propósito principal de cada uno de ellos para facilitar su comprensión y análisis.
 
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
@@ -87,7 +87,7 @@
             .bloque-texto-b.color-secundario.ajuste__cita.mb-5(data-aos="fade-right")
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                h3.mb-0 Creemos en el modelo yo-tú-nosotros; el cambio comienza en ti, para luego impactar a tu compañero, a tu pareja y al planeta.
+                h3.mb-0 Creemos en el modelo yo, tú, nosotros; el cambio comienza en ti, para luego impactar a tu compañero, a tu pareja y al planeta.
                 i.fas.fa-quote-right
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
@@ -125,7 +125,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Propósito ético de la marca
-                p.mb-0 La marca debe responder a la pregunta ¿por qué estamos aquí?. Este propósito debe estar alineado con los Objetivos de Desarrollo Sostenible, para tener una causa ética clara y transformadora.
+                p.mb-0 La marca debe responder a la pregunta: ¿por qué estamos aquí?. Este propósito debe estar alineado con los Objetivos de Desarrollo Sostenible, para tener una causa ética clara y transformadora.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img10.png', alt='').m-auto
@@ -133,7 +133,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Valores y principios éticos
-                p.mb-0 Integrar los cuatro pilares del Pacto Global de las Naciones Unidas (2000): Derechos Humanos, normas laborales, medio ambiente y lucha contra la corrupción. Esto forja una cultura de integridad.
+                p.mb-0 Integrar los cuatro pilares del Pacto Global de las Naciones Unidas (2000): derechos humanos, normas laborales, medio ambiente y lucha contra la corrupción. Esto forja una cultura de integridad.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img11.png', alt='').m-auto

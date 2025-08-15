@@ -18,9 +18,9 @@
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img30.svg", alt="" style="max-width: 85px").m-auto
           .col-xl
-            p.mb-0 Un creciente número de consumidores opta por una moda ética, que reduzca el impacto medioambiental y garantice condiciones laborales justas. Movimientos como el slow <em>fashion</em> impulsan esta tendencia, replanteando nuestros hábitos de consumo. Aunque el precio sigue siendo un factor decisivo a favor del <em>fast fashion</em>, hoy existen marcas sostenibles accesibles, de calidad, con buen diseño y principios éticos claros.
+            p.mb-0 Un creciente número de consumidores opta por una moda ética, que reduzca el impacto medioambiental y garantice condiciones laborales justas. Movimientos como el <em>slow fashion</em> impulsan esta tendencia, replanteando nuestros hábitos de consumo. Aunque el precio sigue siendo un factor decisivo a favor del <em>fast fashion</em>, hoy existen marcas sostenibles accesibles, de calidad, con buen diseño y principios éticos claros.
     
-    p.mb-5.espacio___movil_1 A continuación, se presentan algunas de las marcas que aplican los principios del Triple Bottom Line y han logrado mantenerse competitivas en el mercado:
+    p.mb-5.espacio___movil_1 A continuación, se presentan algunas de las marcas que aplican los principios del <em>Triple Bottom Line</em> y han logrado mantenerse competitivas en el mercado:
 
     .fondo___slider.mb-5
       .px-5
@@ -36,7 +36,7 @@
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Reformation
+                h4 <em>Reformation</em>
                 p.mb-0 Marca de moda fundada en 2009, diseña y fabrica la mayoría de sus colecciones en <strong>Los Ángeles</strong>, promoviendo una <strong>producción local y controlada</strong>. Utiliza materiales sostenibles y procesos responsables.
               .col-xl-6
                 figure.d-none.d-xl-block
@@ -52,7 +52,7 @@
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Toms Shoes & Elephant Branded
+                h4 <em>Toms Shoes & Elephant Branded</em>
                 p.mb-0 Marcas que aplican el modelo “compre uno, dé uno”: por cada compra, se dona un producto equivalente a comunidades necesitadas. Combinan impacto social directo con una propuesta comercial clara.
               .col-xl-6
                 figure.d-none.d-xl-block
@@ -60,8 +60,8 @@
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Default Club
-                p.mb-0 Marca juvenil de camisetas, sudaderas y tote bags que mezcla <strong>arte clásico con cultura pop</strong>. Productos asequibles (desde 25 €) con una <strong>estética fresca y creativa</strong>, elaborados bajo principios de sostenibilidad.
+                h4 <em>Default Club</em>
+                p.mb-0 Marca juvenil de camisetas, sudaderas y <em>tote bags</em> que mezcla <strong>arte clásico con cultura pop</strong>. Productos asequibles (desde 25 €) con una <strong>estética fresca y creativa</strong>, elaborados bajo principios de sostenibilidad.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img36.png', alt='' style="max-width: 350px").m-auto
@@ -69,15 +69,15 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 María Malo
-                p.mb-0 Ropa elaborada con materiales <strong>naturales y reciclables</strong> como bambú orgánico y tencel. Apoya el <strong>comercio justo</strong> y el uso de <strong>tintes libres de químicos</strong>. Sus prendas (40 - 50 €) tienen un estilo <strong>boho</strong> y están diseñadas con consciencia ecológica.
+                p.mb-0 Ropa elaborada con materiales <strong>naturales y reciclables</strong> como bambú orgánico y tencel. Apoya el <strong>comercio justo</strong> y el uso de <strong>tintes libres de químicos</strong>. Sus prendas (40 - 50 €) tienen un estilo <strong>boho</strong> y están diseñadas con conciencia ecológica.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img34.png', alt='' style="max-width: 350px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Hemper
-                p.mb-0 Marca de mochilas y accesorios de <strong>cáñamo hecho a mano en Nepal</strong>. Utiliza packaging sostenible (bolsas de arroz reutilizadas) y destina parte de sus beneficios a <strong>empoderar a mujeres nepalíes</strong>. Cuenta con el sello internacional <strong>B Corp™</strong>, que certifica su impacto social y medioambiental positivo.
+                h4 <em>Hemper</em>
+                p.mb-0 Marca de mochilas y accesorios de <strong>cáñamo hecho a mano en Nepal</strong>. Utiliza <em>packaging</em> sostenible (bolsas de arroz reutilizadas) y destina parte de sus beneficios a <strong>empoderar a mujeres nepalíes</strong>. Cuenta con el sello internacional <strong>B Corp™</strong>, que certifica su impacto social y medioambiental positivo.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img37.png', alt='' style="max-width: 350px").m-auto
@@ -89,7 +89,7 @@
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img38.png", alt="" style="max-width: 350px").m-auto
           .col-xl
-            p.mb-0 Como consumidores, es clave <strong>cuestionar qué compramos y quién lo produce</strong>. Esta consciencia crítica ya se extiende a otras industrias como la alimentaria. Exigir a las empresas que integren en su práctica el enfoque del <strong><em>Triple Bottom Line</em></strong> es un paso fundamental hacia un consumo más justo y sostenible. Esto implica que las marcas deben:
+            p.mb-0 Como consumidores, es clave <strong>cuestionar qué compramos y quién lo produce</strong>. Esta conciencia crítica ya se extiende a otras industrias como la alimentaria. Exigir a las empresas que integren en su práctica el enfoque del <strong><em>Triple Bottom Line</em></strong> es un paso fundamental hacia un consumo más justo y sostenible. Esto implica que las marcas deben:
       .col-xl-4
         .row.align-items-center
           .col-xl-auto(data-aos="zoom-in")
