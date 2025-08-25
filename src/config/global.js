@@ -197,8 +197,44 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Cayetano (2019). La sostenibilidad se consolida en la gran feria de la moda española. Ethic. ',
+      link: 'https://ethic.es/2019/01/sostenibilidad-feria-moda-momad/',
+    },
+    {
+      referencia:
+        'García, M. (2015). La cuenta del Triple resultado o triple bottom line. Revista de Contabilidad y Dirección. Vol. 20.',
       link: '',
+    },
+    {
+      referencia:
+        'Garcidueñas, P. (2015). ¿Qué es un proyecto triple bottom line y cómo lograrlo?. Expok comunicación de sustentabilidad. ',
+      link:
+        'https://www.expoknews.com/que-es-un-proyecto-triple-bottom-line-y-como-lograrlo/#:~:text=Try%20watching%20this%20video%20on,%3A%20econ%C3%B3mico%2C%20ambiental%20y%20social',
+    },
+    {
+      referencia:
+        'Gómez, C. (2017). UNESCO. III El desarrollo Sostenible: conceptos básicos, alcance y criterios para su evaluación. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Innuba, (2019), Para qué - Innovación Social Trascendente. [Vídeo]. Youtube. ',
+      link: 'https://www.youtube.com/watch?v=p2UwWV8rgqQ&feature=emb_logo',
+    },
+    {
+      referencia: 'Magneta.  (2018). Guía para crear marcas éticas. ',
+      link: 'https://magentaig.com/guia-para-crear-marcas-eticas/',
+    },
+    {
+      referencia:
+        'Programa de Naciones Unidas para el Desarrollo (s.f.). Los ODS en acción. ',
+      link:
+        'https://www.undp.org/content/undp/es/home/sustainable-development-goals.html',
+    },
+    {
+      referencia: 'Zamarriego, L. (2019). La rebelión de las marcas. Ethic. ',
+      link: 'https://ethic.es/2019/06/la-rebelion-de-las-marcas/',
     },
   ],
   creditos: [
@@ -221,9 +257,10 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Mónica Suárez Aya',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
@@ -249,14 +286,14 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Alejandro Delgado Acosta',
-          cargo: 'Intérprete lenguaje de señas',
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor audiovisual',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Cristhian Giovanni Gordillo Segura',
-          cargo: 'Intérprete lenguaje de señas',
+          nombre: 'Jose Eduardo Solano  Rivero',
+          cargo: 'Animador y productor audiovisual',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
