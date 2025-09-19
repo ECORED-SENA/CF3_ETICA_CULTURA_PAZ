@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Objetivos de desarrollo sostenible
+      h1 Objetivos de Desarrollo Sostenible
     
     .row.align-items-center.mb-5.m-0.style___box_1(data-aos="zoom-in")
       .col-xl
@@ -55,14 +55,14 @@
     <!-- BLOQUE 1 -->
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1 Los 17 objetivos de desarrollo sostenible
+      h2 1.1 Los 17 Objetivos de Desarrollo Sostenible
     
-    p.mb-5 A continuación, se presenta un video que expone los 17 objetivos de desarrollo sostenible, destacando el propósito principal de cada uno de ellos para facilitar su comprensión y análisis.
+    p.mb-5 A continuación, se presenta un video que expone los 17 Objetivos de Desarrollo Sostenible, destacando el propósito principal de cada uno de ellos para facilitar su comprensión y análisis.
 
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
         iframe(width="560" height="315" src="https://www.youtube.com/embed/bushAWf5OZA" title="Los 17 Objetivos de desarrollo sostenible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") <strong>Video</strong>: Los 17 Objetivos de desarrollo sostenible
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: Los 17 Objetivos de Desarrollo Sostenible
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -104,7 +104,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto La empresa es una comunidad. Hay una fórmula muy sencilla: es la suma de talento y buena gente. El talento te hace competitivo. La buena gente es la base de una buena comunidad. Este sentimiento de comunidad nos da unas capacidades extraordinarias, resiliencia y el proceso nunca fácil de saber adaptarse.
+          p.bloque-texto-f__texto La empresa es una comunidad. Hay una fórmula muy sencilla: es la suma de talento y buena gente. El talento te hace competitivo. La buena gente es la base de una buena comunidad. Este sentimiento de comunidad nos da unas capacidades extraordinarias, resiliencia y el proceso nunca fácil de saber adaptarse.
           .bloque-texto-f__autor.mb-3
             h3.mb-0 Xavier Marcet 
           .bloque-texto-f__avatar
@@ -116,7 +116,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Propósito, valores y principios para construir una marca ética
 
-    p.mb-5 El concepto de <strong>marca ética</strong> implica mucho más que ofrecer un buen producto: exige coherencia entre lo que la marca dice, hace y representa. A continuación se presentan los <strong>8 factores esenciales</strong> que deben guiar a toda empresa que aspire a ser ética y generar un impacto positivo en la sociedad y el planeta:
+    p.mb-5 El concepto de <strong>marca ética</strong> implica mucho más que ofrecer un buen producto: exige coherencia entre lo que la marca dice, hace y representa. A continuación, se presentan los <strong>8 factores esenciales</strong> que deben guiar a toda empresa que aspire a ser ética y generar un impacto positivo en la sociedad y el planeta:
 
     .fondo___slider
       .px-5
@@ -125,7 +125,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Propósito ético de la marca
-                p.mb-0 La marca debe responder a la pregunta: ¿por qué estamos aquí?. Este propósito debe estar alineado con los Objetivos de Desarrollo Sostenible, para tener una causa ética clara y transformadora.
+                p.mb-0 La marca debe responder a la pregunta: ¿por qué estamos aquí? Este propósito debe estar alineado con los Objetivos de Desarrollo Sostenible, para tener una causa ética clara y transformadora.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img10.png', alt='').m-auto

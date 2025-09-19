@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Entendiendo mi mundo',
     Description:
-      'El desarrollo sostenible busca satisfacer las necesidades presentes sin comprometer las futuras. La agenda 2030 establece 17 objetivos de desarrollo sostenible, impulsando acciones éticas en empresas mediante valores, productos responsables y estrategias sostenibles. El enfoque <em>Triple Bottom Line</em> integra impacto social, económico y ambiental. Varias marcas adoptan este modelo, priorizando responsabilidad, equidad y conciencia ambiental.',
+      'El desarrollo sostenible busca satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras para satisfacer sus propias necesidades. La agenda 2030 es un plan de acción global aprobado por la ONU en 2015 que incluye 17 Objetivos de Desarrollo Sostenible (ODS), impulsando acciones éticas en empresas mediante valores, productos responsables y estrategias sostenibles. El enfoque <i>Triple Bottom Line</i> integra impacto social, económico y ambiental. Varias marcas adoptan este modelo, priorizando responsabilidad, equidad y conciencia ambiental.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -97,7 +97,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/XXXX_CF03_DU.pdf',
+        download: 'downloads/Entendiendo_mi_mundo_Etica_CF03_DU.pdf',
       },
       {
         icono: 'fas fa-download',

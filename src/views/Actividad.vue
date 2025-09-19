@@ -90,7 +90,7 @@ export default {
         {
           id: 3,
           texto:
-            'El enfoque Triple Bottom Line considera los siguientes elementos:',
+            'El enfoque <i>Triple Bottom Line</i> considera los siguientes elementos:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -275,7 +275,7 @@ export default {
         {
           id: 9,
           texto:
-            '¿Qué dimensión del Triple Bottom Line se refiere a generar empleo en la comunidad?',
+            '¿Qué dimensión del <i>Triple Bottom Line</i> se refiere a generar empleo en la comunidad?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -400,7 +400,7 @@ export default {
         {
           id: 14,
           texto:
-            'El modelo Triple Bottom Line fue desarrollado en el siglo XIX.',
+            'El modelo <i>Triple Bottom Line</i> fue desarrollado en el siglo XIX.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
